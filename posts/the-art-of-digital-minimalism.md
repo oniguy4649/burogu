@@ -1,19 +1,15 @@
 ---
-title: 'The art of digital minimalism'
+title: 'The Art of Digital Minimalism'
 author: 'Andrii Novakovskyi'
 ---
 
 # The Art of Digital Minimalism: Reclaiming Your Focus
 
-In an era of constant connectivity, digital minimalism offers a thoughtful approach to technology use. The average
-person spends over 7 hours daily on digital devices, often leading to decreased productivity and increased stress
-levels. The consequences of this digital overload extend far beyond mere time consumption – they fundamentally affect
-our ability to think deeply, maintain meaningful relationships, and find genuine fulfillment in our daily lives.
+In an era of constant connectivity, digital minimalism offers a thoughtful approach to technology use. The average person spends over 7 hours daily on digital devices, often leading to decreased productivity and increased stress levels. The consequences of this digital overload extend far beyond mere time consumption – they fundamentally affect our ability to think deeply, maintain meaningful relationships, and find genuine fulfillment in our daily lives.
 
 ## Understanding Digital Overload
 
-Our brains weren't designed for the constant stream of information and stimuli that modern technology provides. Research
-shows that excessive screen time and constant digital interruptions can lead to:
+Our brains weren't designed for the constant stream of information and stimuli that modern technology provides. Research shows that excessive screen time and constant digital interruptions can lead to:
 
 - Decreased attention span and difficulty concentrating
 - Elevated anxiety and stress levels
@@ -23,9 +19,7 @@ shows that excessive screen time and constant digital interruptions can lead to:
 
 ## The Philosophy of Digital Minimalism
 
-Digital minimalism isn't about abandoning technology; it's about intentional usage. This philosophy, popularized by Cal
-Newport, emphasizes quality over quantity in our digital lives. It's about choosing tools that serve your values and
-goals while eliminating those that merely distract or consume your attention.
+Digital minimalism isn't about abandoning technology; it's about intentional usage. This philosophy, popularized by Cal Newport, emphasizes quality over quantity in our digital lives. It's about choosing tools that serve your values and goals while eliminating those that merely distract or consume your attention.
 
 ### Conducting a Digital Audit
 
@@ -104,11 +98,6 @@ Success in digital minimalism isn't measured by complete technological abstinenc
 
 ## Looking Forward
 
-As technology continues to evolve, the principles of digital minimalism become increasingly important. The goal isn't to
-reject technological advancement but to maintain a healthy relationship with our digital tools. By approaching
-technology with intention and mindfulness, we can harness its benefits while preserving our mental space, creativity,
-and authentic human connections.
+As technology continues to evolve, the principles of digital minimalism become increasingly important. The goal isn't to reject technological advancement but to maintain a healthy relationship with our digital tools. By approaching technology with intention and mindfulness, we can harness its benefits while preserving our mental space, creativity, and authentic human connections.
 
-Remember, digital minimalism is a journey, not a destination. It's about creating a sustainable relationship with
-technology that enhances rather than diminishes your life's quality. Start small, be consistent, and adjust your
-approach as needed to find what works best for you.
+Remember, digital minimalism is a journey, not a destination. It's about creating a sustainable relationship with technology that enhances rather than diminishes your life's quality. Start small, be consistent, and adjust your approach as needed to find what works best for you.
